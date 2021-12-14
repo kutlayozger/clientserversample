@@ -1,0 +1,15 @@
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\clientapp.csproj.AssemblyReference.cache
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\clientapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\clientapp.AssemblyInfoInputs.cache
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\clientapp.AssemblyInfo.cs
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\clientapp.csproj.CoreCompileInputs.cache
+C:\dv\homework\clnt\clientapp\clientapp\bin\Debug\net6.0\clientapp.exe
+C:\dv\homework\clnt\clientapp\clientapp\bin\Debug\net6.0\clientapp.deps.json
+C:\dv\homework\clnt\clientapp\clientapp\bin\Debug\net6.0\clientapp.runtimeconfig.json
+C:\dv\homework\clnt\clientapp\clientapp\bin\Debug\net6.0\clientapp.dll
+C:\dv\homework\clnt\clientapp\clientapp\bin\Debug\net6.0\ref\clientapp.dll
+C:\dv\homework\clnt\clientapp\clientapp\bin\Debug\net6.0\clientapp.pdb
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\clientapp.dll
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\ref\clientapp.dll
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\clientapp.pdb
+C:\dv\homework\clnt\clientapp\clientapp\obj\Debug\net6.0\clientapp.genruntimeconfig.cache

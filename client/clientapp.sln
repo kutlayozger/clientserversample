@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "clientapp", "clientapp\clientapp.csproj", "{E85BA94C-E6B3-4B9D-BCD0-FDC28655DC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clnt2", "clnt2\clnt2.csproj", "{EAAC7247-6E11-4746-924C-42DC2BEB5F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85BA94C-E6B3-4B9D-BCD0-FDC28655DC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85BA94C-E6B3-4B9D-BCD0-FDC28655DC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85BA94C-E6B3-4B9D-BCD0-FDC28655DC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85BA94C-E6B3-4B9D-BCD0-FDC28655DC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAC7247-6E11-4746-924C-42DC2BEB5F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAC7247-6E11-4746-924C-42DC2BEB5F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAC7247-6E11-4746-924C-42DC2BEB5F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAC7247-6E11-4746-924C-42DC2BEB5F05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DCB03AF-DA60-411C-AA0E-BB1586035B84}
+	EndGlobalSection
+EndGlobal

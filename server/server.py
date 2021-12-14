@@ -3,8 +3,9 @@ import gevent
 from gevent.pywsgi import WSGIServer
 from gevent.lock import Semaphore
 from geventwebsocket.handler import WebSocketHandler
-import keyboard
+import getch
 
+      
 key = ""
 port = os.getenv("PORT")
 if port == None:
@@ -26,7 +27,7 @@ def onkeypress(ev):
     if (len(ev.name) == 1):
         key = ev.name
 
-keyboard.on_press(onkeypress)
+# keyboard.on_press(onkeypress)
 
 def app(environ, start_response):
     global key
@@ -35,7 +36,8 @@ def app(environ, start_response):
 
     print("New client connected")
     while True:
-        if (key != ""):
+        key=getch.getche()
+        if (key != "" && len(key)==1):
           print(">", key)
           gevent.spawn(process, ws, key, sem)
         key = ""
